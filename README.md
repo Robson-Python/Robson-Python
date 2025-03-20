@@ -5,6 +5,7 @@ Welcome to my GitHub portfolio! I'm Robson Silva, a Computer Technician graduate
 ---
 
 🥷🏼 Skills
+
 Programming Languages: Python, Delphi/Pascal
 
 Machine Learning & AI: Scikit-learn
