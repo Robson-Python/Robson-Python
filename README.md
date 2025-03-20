@@ -6,11 +6,17 @@ Welcome to my GitHub portfolio! I'm Robson Silva, a Computer Technician graduate
 
 🥷🏼 Skills
 Programming Languages: Python, Delphi/Pascal
+
 Machine Learning & AI: Scikit-learn
+
 Data Visualization: Matplotlib, Seaborn Plotly, Streamlit, Power BI
+
 Data Science & Analytics: Pandas, NumPy
+
 Databases: SQLite, MySQL, SQLServer, Interbase, Firebird
+
 Web Development: Kivy, Flask, CSS, HTML, Javascript, Google Sites
+
 Others: Excel, Access, TKinter
 
 ---
