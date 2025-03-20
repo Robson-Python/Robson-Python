@@ -37,4 +37,3 @@ Here are some ideas to get you started:
 Building additional Python projects applying data science and analytics for a variety of industries and companies
 Refining machine learning skills.
 Actively participating in Kaggle competitions for hands-on ML practice.
--->
