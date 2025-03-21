@@ -22,8 +22,6 @@ Welcome to my GitHub portfolio! I'm Robson Silva, a Computer Technician graduate
 
 ---
 
-Here are some ideas to get you started:
-
 - 🔭 I'm currently trying to find a job with Python programming in Data Analysis.
 - 🌱 I'm currently learning Python and taking several courses in this programming language.
 - 👯 I'm looking to collaborate on analytics, data science, and machine learning projects in different types of companies and industries.
@@ -37,4 +35,4 @@ Here are some ideas to get you started:
 
 Building additional Python projects applying data science and analytics for a variety of industries and companies
 Refining machine learning skills.
-Actively participating in Kaggle competitions for hands-on ML practice.
+Actively participating in Kaggle competitions for ML practice.
