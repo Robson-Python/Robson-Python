@@ -31,7 +31,7 @@ Welcome to my GitHub portfolio! I'm Robson Silva, a Computer Technician graduate
 
 ---
 
- 🚀Current focus
+ ## 🚀**Current focus**
 
 Building additional Python projects applying data science and analytics for a variety of industries and companies
 Refining machine learning skills.
