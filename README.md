@@ -27,7 +27,7 @@ Welcome to my GitHub portfolio! I'm Robson Silva, a Computer Technician graduate
 - 👯 I'm looking to collaborate on analytics, data science, and machine learning projects in different types of companies and industries.
 - 🤔 I'm looking for help with other programmers and companies to win new projects.
 - 💬 Ask me about something.
-- 📫 How to contact me: through my email.
+- 📫 How to contact me: through my email(robsonprogramadordelphi@gmail.com)
 
 ---
 
