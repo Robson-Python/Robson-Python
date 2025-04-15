@@ -10,7 +10,7 @@ Welcome to my GitHub portfolio! I'm Robson Silva, a Computer Technician graduate
 
 - Machine Learning & AI: Scikit-learn
 
-- Data Visualization: Matplotlib, Seaborn Plotly, Streamlit, Power BI
+- Data Visualization: Matplotlib, Seaborn, Plotly, Streamlit, Power BI
 
 - Data Science & Analytics: Pandas, NumPy
 
