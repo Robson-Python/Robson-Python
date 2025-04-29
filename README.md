@@ -4,35 +4,32 @@ Bem-vindo ao meu portfólio do GitHub! Sou Robson Silva, Técnico em Informátic
 
 ---
 
-## 🥷🏼 **Skills**
+## 🥷🏼 **Habilidades**
 
-- Programming Languages: Python, Delphi/Pascal
+- Linguagens de programação: Python, Delphi/Pascal
 
-- Machine Learning & AI: Scikit-learn
+- Aprendizado de máquina e IA: Scikit-learn
 
-- Data Visualization: Matplotlib, Seaborn, Plotly, Streamlit, Power BI
+- Visualização de dados: Matplotlib, Seaborn, Plotly, Streamlit, Power BI
 
-- Data Science & Analytics: Pandas, NumPy
+- Ciência e análise de dados: Pandas, NumPy
 
-- Databases: SQLite, MySQL, SQLServer, Interbase, Firebird
+- Bancos de dados: SQLite, MySQL, SQLServer, Interbase, Firebird
 
-- Web Development: Kivy, Flask, CSS, HTML, Javascript, Google Sites
+- Desenvolvimento Web: Kivy, Flask, CSS, HTML, Javascript, Google Sites
 
-- Others: Excel, Access, TKinter
-
----
-
-- 🔭 I'm currently trying to find a job with Python programming in Data Analysis.
-- 🌱 I'm currently learning Python and taking several courses in this programming language.
-- 👯 I'm looking to collaborate on analytics, data science, and machine learning projects in different types of companies and industries.
-- 🤔 I'm looking for help with other programmers and companies to win new projects.
-- 💬 Ask me about something.
-- 📫 How to contact me: through my email (robsonprogramadordelphi@gmail.com)
+- Outros: Excel, Access, TKinter
 
 ---
 
- ## 🚀**Current focus**
+- 🔭 Atualmente estou tentando encontrar um emprego com programação Python em Análise de Dados.
+- 🌱 Atualmente estou aprendendo Python e fazendo vários cursos nesta linguagem de programação.
+- 👯 Estou procurando colaborar em projetos de análise, ciência de dados e aprendizado de máquina em diferentes tipos de empresas e setores.
+- 🤔 Estou procurando ajuda com outros programadores e empresas para ganhar novos projetos.
+- 📫 Como entrar em contato comigo: através do meu e-mail (robsonprogramadordelphi@gmail.com)
 
-Building additional Python projects applying data science and analytics for a variety of industries and companies
-Refining machine learning skills.
-Actively participating in Kaggle competitions for ML practice.
+---
+
+ ## 🚀**Foco atual**
+
+Criação de projetos Python adicionais aplicando ciência de dados e análise para uma variedade de setores e empresas Refinando as habilidades de aprendizado de máquina. Participação ativa em competições do Kaggle para a prática de ML.
